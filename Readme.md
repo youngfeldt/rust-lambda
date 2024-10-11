@@ -8,7 +8,7 @@ sudo usermod -aG docker root
 sudo usermod -aG wheel root
 
 
-# D-CaaS Certificate Retrieval Service  - AWS Lambda
+# Cert Service  - AWS Lambda
  
 ## Notes
  
